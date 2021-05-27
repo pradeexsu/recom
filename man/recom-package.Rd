@@ -7,7 +7,7 @@
 recom REmoves all the COMments from Rscript file.
 }
 \description{
- Gole of recom-package is to automate the removal of all the comments of the Rscript file, to reduce file size for use of Rscript.
+ goal of recom-package is to remove of all the comments of the Rscript file, to reduce file size for better performance of Rscript.
 }
 \details{
  This package contains only one function that is recom function that removes all the comments of the given Rscript file and output as new Rscript file as specified by user in second argument.

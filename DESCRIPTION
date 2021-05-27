@@ -5,7 +5,9 @@ Version: 1.0
 Date: 2021-05-27
 Author: Pradeep Suthar  <sutharp777@gmail.com> [aut, cph, cre]
 Maintainer: Pradeep Suthar <sutharp777@gmail.com>
-Description: Gole of recom-package is to remove all the comments of the Rscript file and optimize the performance of Rscript by reducing the file size.
+Description: Goal of recom-package is to remove of all the comments of the Rscript file, to reduce file size for better performance of Rscript.
+Encoding: UTF-8
 License: GPL-3
 Imports: Rcpp (>= 1.0.6)
 LinkingTo: Rcpp
+RoxygenNote: 7.1.1
