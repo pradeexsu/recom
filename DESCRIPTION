@@ -1,0 +1,11 @@
+Package: recom
+Type: Package
+Title: recom REmoves COMments of Rscript file for you
+Version: 1.0
+Date: 2021-05-27
+Author: Pradeep Suthar  <sutharp777@gmail.com> [aut, cph, cre]
+Maintainer: Pradeep Suthar <sutharp777@gmail.com>
+Description: Gole of recom-package is to remove all the comments of the Rscript file and optimize the performance of Rscript by reducing the file size.
+License: GPL-3
+Imports: Rcpp (>= 1.0.6)
+LinkingTo: Rcpp
