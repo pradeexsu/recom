@@ -1,6 +1,6 @@
 Package: recom
 Type: Package
-Title: Recom REmoves COMments of Rscript File
+Title: Recom REmoves COMments of Rscript File for you
 Version: 1.0
 Date: 2021-05-27
 Author: Pradeep Suthar  <sutharp777@gmail.com> [aut, cph, cre]
