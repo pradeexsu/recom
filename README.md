@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/HpVYVjk/logo-2.png" height="110">
+<img src="https://user-images.githubusercontent.com/49487927/120012365-08311e80-bffd-11eb-813e-4d5412d13c1a.png" height="110">
 
 ### recom (REmoves COMments of Rscript)
 
