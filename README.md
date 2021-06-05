@@ -2,11 +2,11 @@
 
 ### [recom (REmoves COMments of Rscript)](https://cran.r-project.org/web/packages/recom/index.html)
 [![](https://www.r-pkg.org/badges/version/recom?color=blue)](https://cran.r-project.org/package=recom)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/recom?color=green)](https://cran.r-project.org/package=recom)
 
-[![](http://cranlogs.r-pkg.org/badges/grand-total/recom?color=red)](https://cran.r-project.org/package=recom)
-[![](http://cranlogs.r-pkg.org/badges/last-month/recom?color=white)](https://cran.r-project.org/package=recom)
+<!-- [![](http://cranlogs.r-pkg.org/badges/last-month/recom?color=white)](https://cran.r-project.org/package=recom)
 [![](http://cranlogs.r-pkg.org/badges/last-week/recom?color=green)](https://cran.r-project.org/package=recom)
-
+ -->
 <!-- https://cran.r-project.org/web/packages/recom/index.html -->
 
 **recom** is a `C++` project with goal of reduce file size of R Script for better performance by **Re**moving **Com**ments of R script file.
