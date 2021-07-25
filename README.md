@@ -1,6 +1,13 @@
-<img src="https://i.ibb.co/HpVYVjk/logo-2.png" height="110">
+<img src="https://user-images.githubusercontent.com/49487927/120012365-08311e80-bffd-11eb-813e-4d5412d13c1a.png" height="110">
 
-### recom (REmoves COMments of Rscript)
+### [recom (REmoves COMments of Rscript)](https://cran.r-project.org/web/packages/recom/index.html)
+[![](https://www.r-pkg.org/badges/version/recom?color=blue)](https://cran.r-project.org/package=recom)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/recom?color=green)](https://cran.r-project.org/package=recom)
+
+<!-- [![](http://cranlogs.r-pkg.org/badges/last-month/recom?color=white)](https://cran.r-project.org/package=recom)
+[![](http://cranlogs.r-pkg.org/badges/last-week/recom?color=green)](https://cran.r-project.org/package=recom)
+ -->
+<!-- https://cran.r-project.org/web/packages/recom/index.html -->
 
 **recom** is a `C++` project with goal of reduce file size of R Script for better performance by **Re**moving **Com**ments of R script file.
 
@@ -12,6 +19,15 @@ recom(input_file, output_file, remove_space=TRUE)
 - **input_file** path of input Rscript file(must exist).
 - **output_file**  output file path (overwritten if already exist).
 - **remove_space** *Optional*. boolean flag whether we want to remove free space of comments or not.
+
+### how to use:
+```
+install.packages("recom")
+libarary(recom)
+
+recom("input.R","output.R")
+
+```
 
 ### Credits
 
