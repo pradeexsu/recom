@@ -7,7 +7,7 @@
 <!-- [![](http://cranlogs.r-pkg.org/badges/last-month/recom?color=white)](https://cran.r-project.org/package=recom)
 [![](http://cranlogs.r-pkg.org/badges/last-week/recom?color=green)](https://cran.r-project.org/package=recom)
  -->
-<!-- https://cran.r-project.org/web/packages/recom/index.html -->
+recom is also published on CRAN Repository: https://cran.r-project.org/web/packages/recom/index.html
 
 **recom** is a `C++` project with goal of reduce file size of R Script for better performance by **Re**moving **Com**ments of R script file.
 
